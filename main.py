@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 
 # URL to Text via Readability API
-API_TOKEN = 'c798b3e0e6b0017ec35fed6b258c309eb2ca2956'
+API_TOKEN = *API TOKEN*
 base_url = 'https://readability.com'
 target_url = ''
 
